@@ -16,3 +16,4 @@ local.properties
 /app/build
 /.idea
 maven-publish.gradle
+/lib-media-selector/build
